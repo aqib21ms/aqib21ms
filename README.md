@@ -19,7 +19,7 @@
 ## 🧭 About Me
 
 ```yaml
-name:         Uzair Hassan
+name:         Aqib Mehmood
 role:         Computer Scientist | Lecturer
 affiliation:  Institute of Space Technology (IST), Islamabad
 location:     Islamabad, Pakistan 🇵🇰
