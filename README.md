@@ -3,17 +3,17 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aqib-mehmood-b05492373)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aqibmehmood13w@gmail.com)
 
-**Computer Science Undergraduate (BSCS @ KICSIT)** | *CGPA: 3.64*  
-Aspiring **Cybersecurity Enthusiast** & **C++ / Systems Developer**
+**Computer Science Undergraduate (BSCS @ KICSIT)** 
+Aspiring **Cybersecurity Enthusiast** & **C++ / Python**
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Currently pursuing BSCS at **Dr. A. Q. Khan Institute of Computer Sciences and Information Technology**[cite: 3].
-- 🛡️ Actively **learning Cybersecurity fundamentals**, **Kali Linux environment**, and **Computer Networking**[cite: 3].
-- 💻 Experienced in C++ data structures (Graphs, Dijkstra's Shortest Path) and Raylib game logic[cite: 3].
-- 🎯 Eager to build strong practical skills and secure an entry-level internship in **Cybersecurity** or **Network Administration**[cite: 3].
+- 🎓 Currently pursuing BSCS at **Dr. A. Q. Khan Institute of Computer Sciences and Information Technology**.
+- 🛡️ Actively **learning Cybersecurity fundamentals**, **Kali Linux environment**, and **Computer Networking**.
+- 💻 Experienced in C++ data structures (Graphs, Dijkstra's Shortest Path) and Raylib game logic.
+- 🎯 Eager to build strong practical skills and secure an entry-level internship in **Cybersecurity** or **Network Administration**.
 
 ---
 
@@ -33,7 +33,7 @@ Aspiring **Cybersecurity Enthusiast** & **C++ / Systems Developer**
 ![Routing & Switching](https://img.shields.io/badge/LAN%2FMAN%2FWAN-Routing-informational?style=flat-square)
 ![Crypto Fundamentals](https://img.shields.io/badge/Security-Ciphers%20%26%20Hashing-success?style=flat-square)
 
-**Tools & Graphics Libraries:**  
+**Tools & Libraries:**  
 ![Raylib](https://img.shields.io/badge/Raylib-000000?style=flat-square)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
 
@@ -42,14 +42,14 @@ Aspiring **Cybersecurity Enthusiast** & **C++ / Systems Developer**
 ## 📌 Featured Projects
 
 ### 🚌 [Smart Bus Route Management System](https://github.com/aqib-mehmood)
-* **Tech Stack:** C++, Graph Data Structure, Dijkstra's Algorithm, BFS[cite: 3]
-* Designed an automated university bus transit navigation system to calculate shortest paths and optimize transit schedules[cite: 3].
-* Integrated multi-stop routing logic to minimize wait times and handle traffic bottlenecks efficiently[cite: 3].
+* **Tech Stack:** C++, Graph Data Structure, Dijkstra's Algorithm, BFS
+* Designed an automated university bus transit navigation system to calculate shortest paths and optimize transit schedules.
+* Integrated multi-stop routing logic to minimize wait times and handle traffic bottlenecks efficiently.
 
 ### 🎮 [2D Pong Game Engine](https://github.com/aqib-mehmood)
-* **Tech Stack:** C++, Raylib Graphics Library[cite: 3]
-* Developed a classic 2D Pong game utilizing real-time game loops, collision detection logic, and paddle movement controls[cite: 3].
-* Optimized memory management and rendering cycles for smooth 60 FPS gameplay execution[cite: 3].
+* **Tech Stack:** C++, Raylib Graphics Library
+* Developed a classic 2D Pong game utilizing real-time game loops, collision detection logic, and paddle movement controls.
+* Optimized memory management and rendering cycles for smooth 60 FPS gameplay execution.
 
 ---
 
@@ -61,6 +61,6 @@ Aspiring **Cybersecurity Enthusiast** & **C++ / Systems Developer**
 
 ## 📫 Connect with Me
 
-- 📍 **Location:** Rawalpindi, Pakistan[cite: 3]
+- 📍 **Location:** Rawalpindi, Pakistan
 - 📧 **Email:** [aqibmehmood13w@gmail.com](mailto:aqibmehmood13w@gmail.com)[cite: 3]
 - 💼 **LinkedIn:** [linkedin.com/in/aqib-mehmood-b05492373](https://www.linkedin.com/in/aqib-mehmood-b05492373)[cite: 3]
